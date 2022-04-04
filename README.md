@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @satoshisatori
+- 👀 I’m interested in full-stack development 
+- 🌱 I’m currently learning flutter & node.js
+- 💞️ I’m looking to collaborate on open-source projects
